@@ -6,4 +6,4 @@ The app will target environmentally conscious consumers who want to make sustain
 
 This project currently focuses on accessibility to sustainable products, with no current restrictions on the retail stores in which these products may be purchased (i.e. the product may be sustainable, but may be purchasable from a retail company that does not meet certain sustainability requirements.)
 
-This project is a part of the Microsoft Global Hackathon 2024.
+This project was created for *Microsoft Global Hackathon 2024*.
